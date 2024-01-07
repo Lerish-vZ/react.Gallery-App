@@ -6,5 +6,4 @@ function App() {
     <Gallery />
   );
   }
-}
 export default App;
